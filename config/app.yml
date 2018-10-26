@@ -1,0 +1,4 @@
+app: master
+port: :8973
+secret: test
+sso-token-expire: 30
